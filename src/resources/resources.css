@@ -1,0 +1,36 @@
+.details {
+    font-family: Avenir, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+}
+
+.wbdv {
+    padding-top: 25px;
+}
+
+.infoHdr1,
+.infoHdr2{
+    margin-bottom: 0;
+}
+
+.infoHdr2 {
+    margin-top: 32px;
+}
+
+.infoTitle1 {
+    margin-top: 8px;
+    
+}
+
+.spaced {
+    line-height: 200%;
+}
+
+.eng {
+    margin-top: 0px;
+}
