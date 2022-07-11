@@ -88,7 +88,7 @@ class App extends Component {
         
         <div className="row2a">
             <div className="recent">
-                <h5>Recent Graduate • UNC Charlotte Bootcamp • Full Stack Development</h5>
+                <h5>Graduate • UNC Charlotte Bootcamp • Full Stack Development</h5>
             </div>
         </div>
         
